@@ -16,13 +16,13 @@
 I assume you already installing git in your computer, then you can clone this repository by typing this command in your terminal:
 
 ```bash
-$ git clone https://github.com/praktikum-alprog-unud-2023/kelompok-9.git
+$ git clone https://github.com/praktikum-alprog-unud-2023/Dasar-Bahasa-C.git
 ```
 
 You should change your directory to this repository by typing this command:
 
 ```bash
-$ cd kelompok-9
+$ cd Dasar-Bahasa-C
 ```
 
 If you already have this repository in your computer, but you don't have the latest version (i.e. your teammate already push their own work), you can update it by typing this command:
